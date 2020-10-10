@@ -1,5 +1,6 @@
 # Description
-This is the repo to store the PM566 lab submissions by liyongsh@usc.edu
+This is the repo to gather the PM566 lab submissions, assignments, projects and so on. 
+liyongsh@usc.edu
 
 
 |   week   |    files  |     notes |
